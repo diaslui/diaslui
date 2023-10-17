@@ -1,5 +1,11 @@
 ## Hello World! I'm Pedro 👋
+#### Desenvolvedor Full-Stack Web/Mobile,  apaixonado pela arte da programação. Minha jornada no mundo do desenvolvimento começou com um fascínio pela criação de soluções funcionais que o uso da tecnologia pode fornecer.
+Minha experiência inclui o desenvolvimento em uma ampla gama de tecnologias. Isso me permite trabalhar tanto no front-end quanto no back-end, proporcionando soluções completas e bem integradas.
 
+_Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para criar produtos de alta qualidade e atender às necessidades dos usuários._
+
+## 📚 Writing
+Acompanhe meus projetos no [Canal no Youtube](https://www.youtube.com/channel/UCW_4e6sUTMWHxlF06aErH9w).
 
 ## 📎💻  Languages & Technologies
 
@@ -30,8 +36,10 @@
 
 ![Luiisp GitHub stats](https://github-readme-stats.vercel.app/api?username=luiisp&show_icons=true&theme=radical)
 
-## 📎💻  Social
+## 🧩  Social
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-dias-757225285/)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbwSBwe9R-4ybxOz5V89Nnw)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/700469126027804764)
+
 
