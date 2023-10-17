@@ -5,7 +5,7 @@ Minha experiência inclui o desenvolvimento em uma ampla gama de tecnologias. Is
 _Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para criar produtos de alta qualidade e atender às necessidades dos usuários._
 
 ## 📚 Writing
-Acompanhe meus projetos no [Canal no Youtube](https://www.youtube.com/channel/UCW_4e6sUTMWHxlF06aErH9w).
+Acompanhe meus projetos em meu [Canal no Youtube](https://www.youtube.com/channel/UCbwSBwe9R-4ybxOz5V89Nnw).
 
 ## 📎💻  Languages & Technologies
 
