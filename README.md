@@ -5,9 +5,6 @@ Minha experiência inclui o desenvolvimento em uma ampla gama de tecnologias. Is
 
 _Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para criar produtos de alta qualidade e atender às necessidades dos usuários._
 
-## 📚 Writing
-Acompanhe meus projetos em meu [Canal no Youtube](https://www.youtube.com/channel/UCbwSBwe9R-4ybxOz5V89Nnw).
-
 ## 📎💻  Languages & Technologies
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -36,11 +33,5 @@ Acompanhe meus projetos em meu [Canal no Youtube](https://www.youtube.com/channe
 ## 📊 Statistics
 
 ![Luiisp GitHub stats](https://github-readme-stats.vercel.app/api?username=luiisp&show_icons=true&theme=radical)
-
-## 🧩  Social
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-dias-757225285/)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbwSBwe9R-4ybxOz5V89Nnw)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/700469126027804764)
 
 
