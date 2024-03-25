@@ -1,6 +1,6 @@
 ### Hello World! I'm Pedro 👋
 
-#### Full-Stack Web/Mobile Developer With emphasis on the back-end
+#### Full-Stack Web/Mobile Developer With emphasis on the Back-end
 
 ## 📎💻
 
