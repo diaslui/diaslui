@@ -1,5 +1,4 @@
-### Hello World! I'm Pedro 👋
-
+### Hello World! I'm Lui 👋
 #### Full-Stack Web/Mobile Developer With emphasis on the Back-end
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
