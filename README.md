@@ -1,6 +1,6 @@
 <p align="center">
-  <h1><strong>Hello World! I'm Lui 👋</strong></h1>
-   <h3><strong>Full-Stack Web/Mobile Developer With emphasis on the Back-end</strong></h3>
+  <h1>Hello World! I'm Lui 👋</h1>
+   <h3>Full-Stack Web/Mobile Developer With emphasis on the Back-end</h3>
   
 </p>
 
