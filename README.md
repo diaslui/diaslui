@@ -1,34 +1,40 @@
-### Hello World! I'm Lui 👋
-#### Full-Stack Web/Mobile Developer With emphasis on the Back-end
+<p align="center">
+  <h1><strong>Hello World! I'm Lui 👋</strong></h1>
+   <h3><strong>Full-Stack Web/Mobile Developer With emphasis on the Back-end</strong></h3>
+  
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="left">
+  
+ <h3><strong>👨‍💻 Technologies:</strong></h3>
+  
+  <ul>
+    <li>
+      <p>Main Languages + Runtimes</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,typescript,nodejs" />
+  </a>
+    </li>
+       <li>
+    <p> HTTP Frameworks:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nest" />
+  </a>
+    </li>       
+    <li>
+    <p>Tools/Orms/DB/Tests/ql:</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,jest,docker,prisma,mysql,mongodb,postgres,graphql" />
+  </a>
+    </li>
+    <li>
+    <p>Others (front-end):</p>
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,next,tailwind,styledcomponents" />
+  </a>
+    </li>
+</ul>
+  
 
 
-
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-
-
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
