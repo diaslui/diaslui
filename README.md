@@ -1,5 +1,5 @@
 # Hey, I'm Lui! 👋
-The only software developer who doesn't drink coffee. Need to get in touch with me? [Contact me here (Email)](mailto:luisp.diias@gmail.com)
+The only software developer who doesn't drink coffee. [Contact me here (Email)](mailto:luisp.diias@gmail.com)
 
 <details>
 <summary>Click for vanity statistics💅</summary>
