@@ -1,40 +1,16 @@
-<p align="center">
-  <h1>Hello World! I'm Lui 👋</h1>
-   <h3>Full-Stack Web/Mobile Developer With emphasis on the Back-end</h3>
-  
-</p>
+# Hey, I'm Lui! 👋
+The only software developer who doesn't drink coffee. Need to get in touch with me? [Contact me here (Email)](mailto:luisp.diias@gmail.com)
 
-<p align="left">
-  
- <h3><strong>👨‍💻 Technologies:</strong></h3>
-  
-  <ul>
-    <li>
-      <p>Main Languages + Runtimes</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,typescript,nodejs" />
-  </a>
-    </li>
-       <li>
-    <p> HTTP Frameworks:</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nest" />
-  </a>
-    </li>       
-    <li>
-    <p>Tools/Orms/DB/Tests/ql:</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,jest,docker,prisma,mysql,mongodb,postgres,graphql" />
-  </a>
-    </li>
-    <li>
-    <p>Others (front-end):</p>
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,next,tailwind,styledcomponents" />
-  </a>
-    </li>
-</ul>
-  
+<details>
+<summary>Click for vanity statistics💅</summary>
+<br />
+
+![Luiisp GitHub stats](https://github-readme-stats.vercel.app/api?username=luiisp&show_icons=true&theme=radical)
+
+![Joel's trophies](https://github-profile-trophy.vercel.app/?username=luiisp&column=5&margin-w=7&margin-h=7&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiisp&hide_progress=true&theme=radical)
+</details>
 
 
 
